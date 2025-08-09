@@ -1,0 +1,9 @@
+com\facturacion\repository\FacturaRepository.class
+com\facturacion\entity\Factura.class
+com\facturacion\event\InventarioAjustadoEvent.class
+com\facturacion\FacturacionApplication.class
+com\facturacion\controller\FacturaController.class
+com\facturacion\event\InventarioAjustadoEvent$InventarioAjustadoEventBuilder.class
+com\facturacion\entity\Factura$FacturaBuilder.class
+com\facturacion\service\FacturaService.class
+com\facturacion\RabbitMQConfig.class

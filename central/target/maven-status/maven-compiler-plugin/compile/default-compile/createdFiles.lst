@@ -1,0 +1,15 @@
+com\central\controller\AgricultorController.class
+com\central\entity\Agricultor.class
+com\central\service\RabbitMQProducer.class
+com\central\entity\Agricultor$AgricultorBuilder.class
+com\central\entity\Cosecha.class
+com\central\CentralApplication.class
+com\central\dto\CosechaDTO$CosechaDTOBuilder.class
+com\central\entity\Cosecha$CosechaBuilder.class
+com\central\event\CosechaEvent$CosechaEventBuilder.class
+com\central\repository\CosechaRepository.class
+com\central\service\CosechaService.class
+com\central\controller\CosechaController.class
+com\central\event\CosechaEvent.class
+com\central\repository\AgricultorRepository.class
+com\central\dto\CosechaDTO.class

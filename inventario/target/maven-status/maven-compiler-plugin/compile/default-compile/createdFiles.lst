@@ -1,0 +1,11 @@
+com\inventario\controller\InsumoController.class
+com\inventario\repository\InsumoRepository.class
+com\inventario\event\CosechaEvent$CosechaEventBuilder.class
+com\inventario\entity\Insumo.class
+com\inventario\InventarioApplication.class
+com\inventario\entity\Insumo$InsumoBuilder.class
+com\inventario\event\InventarioAjustadoEvent.class
+com\inventario\event\InventarioAjustadoEvent$InventarioAjustadoEventBuilder.class
+com\inventario\event\CosechaEvent.class
+com\inventario\RabbitMQConfig.class
+com\inventario\service\InventarioService.class
